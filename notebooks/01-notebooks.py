@@ -27,8 +27,6 @@ def _():
 
     They can be a mix of _Python cells_ and _Markdown cells_. Python cells contain code that can be run inside the notebook with any output of the code (values, text, plots) appearing directly below.
 
-    , as well as some
-
     ### Markdown
 
     Markdown cells (like this one) are used to help to convey information. They are not executed and support formatting in [Markdown](https://www.markdownguide.org/basic-syntax/). We denote headings with the hash signs – the more `#`, the higher the heading level. Text can be **bolded** with double asterisks (`**text**`) and *emphasised* in italics with single asterisks (`*text*`). You can also make [links](https:/https://duckduckgo.com/) and lists. The guide above gives you more formatting syntax.
